@@ -1,0 +1,11 @@
+package com.company;
+
+import java.util.Scanner;
+
+public class Quiz {
+
+    public static void main(String[] args) {
+
+
+    }
+}
